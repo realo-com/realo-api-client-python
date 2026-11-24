@@ -22,7 +22,7 @@ dependencies = []
 test = ["pytest"]
 
 [project.urls]
-Homepage = "https://github.com/realo-com/api-client-python"
+Homepage = "https://github.com/realo-com/realo-api-client-python"
 Documentation = "https://api.realo.com/docs"
 
 [project.scripts]

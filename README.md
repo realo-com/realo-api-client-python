@@ -4,7 +4,7 @@ The official Python library for using [the Realo REST API](https://api.realo.com
 
 Before using this library, you must have a valid API Key. To get an API Key, please contact your Realo customer success manager.
 
-Also available for [PHP](https://github.com/realo-com/api-client-php) and [C#](https://github.com/realo-com/api-client-csharp).
+Also available for [PHP](https://github.com/realo-com/realo-api-client-php) and [C#](https://github.com/realo-com/realo-api-client-csharp).
 
 Requires Python 3.9+. No runtime dependencies (uses `urllib` from the standard library).
 
@@ -13,7 +13,7 @@ Requires Python 3.9+. No runtime dependencies (uses `urllib` from the standard l
 The package is not on PyPI yet; install it straight from GitHub:
 
 ```bash
-pip install git+https://github.com/realo-com/api-client-python.git
+pip install git+https://github.com/realo-com/realo-api-client-python.git
 ```
 
 ## Initialization
